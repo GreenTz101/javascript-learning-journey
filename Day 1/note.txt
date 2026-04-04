@@ -8,4 +8,4 @@ What I built:
 - An expense calculator project
 
 What I struggled with:
-- Mixing up total spent vs remaining balance lmao😭
+- Mixing up total spent and remaining balance lmao😭

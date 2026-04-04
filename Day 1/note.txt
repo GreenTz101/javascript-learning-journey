@@ -1,0 +1,11 @@
+Day 1 - Variables & Arithmetic Operators
+
+What I learned:
+- Variables store data (numbers, strings, etc.)
+- Arithmetic operators perform calculations (+, -, *, /)
+
+What I built:
+- An expense calculator project
+
+What I struggled with:
+- Mixing up total spent vs remaining balance lmao😭
